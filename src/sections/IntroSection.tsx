@@ -5,7 +5,7 @@ import ProfilePhoto from "./assets/ProfilePhoto.png";
 import { ScrollDownIcon } from "../components/AnimatedIcons";
 
 const content = {
-  name: "Marcin@Taipei.dev",
+  name: "Sam",
   profilePhoto: ProfilePhoto,
   title: "Full Stack Developer",
   cta: {
